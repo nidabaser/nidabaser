@@ -2,20 +2,15 @@
 <h3 align="center"> MSc Computer Science student & Junior Android Developer </h3>
 <!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=nidabaser&label=Profile%20views&color=0e75b6&style=flat" alt="nidabaser" /> </p> -->
 
-   ![divider](https://user-images.githubusercontent.com/97883562/157744908-6e3e5ac5-4157-45e7-8f9f-20246db643a4.png)
+![divider](https://user-images.githubusercontent.com/97883562/157744908-6e3e5ac5-4157-45e7-8f9f-20246db643a4.png)
 
-<h4 align="center">I'm currently Learning:</h4>
-<p align="center"><a href="https://kotlinlang.org" target="_blank" rel="noreferrer" align="center"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="25" height="25"/></a></p>
+<div align="center">
+   
+| I'm currently Learning | I write articles on | How to reach me |
+| ------------- | ------------- | ------------- |
+| <p align="center"><a href="https://kotlinlang.org" target="_blank" rel="noreferrer" align="center"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="25" height="25"/></a></p> | <p align="center"><a href="https://medium.com/@nida.bsr" target="blank"><img src="https://github.com/Medium/medium-logos/blob/master/01_Logo/01_Black/SVG/Medium-Logo-Black-RGB.svg" alt="@nida.bsr" height="50" width="100"/></a></p>  | <p align="center"><a href="https://linkedin.com/in/nida-baser" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="30"></a>  <a href="mailto:nida.bsr@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Mail" height="30" style="vertical-align:top; margin:4px"></p> |
 
-   ![divider](https://user-images.githubusercontent.com/97883562/157744955-4ce0f1a2-74df-4f54-b914-c347e93cec18.png)
-
-<h4 align="center">I write articles on:</h4>
-<p align="center"><a href="https://medium.com/@nida.bsr" target="blank"><img src="https://github.com/Medium/medium-logos/blob/master/01_Logo/01_Black/SVG/Medium-Logo-Black-RGB.svg" alt="@nida.bsr" height="50" width="100"/></a></p>
-
-   ![divider](https://user-images.githubusercontent.com/97883562/157744974-cc898591-87c6-4468-89e4-e0de269d7bc9.png)
-
-<h4 align="center">How to reach me: </h4>
-<p align="center"><a href="https://linkedin.com/in/nida-baser" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="30"></a>     <a href="mailto:nida.bsr@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Mail" height="30" style="vertical-align:top; margin:4px"></p>
+</div>
 
   ![divider](https://user-images.githubusercontent.com/97883562/157744998-5a56274a-b7dd-4fd5-8e1a-0dd1c4fa22c7.png)
 
