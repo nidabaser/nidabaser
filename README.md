@@ -1,5 +1,5 @@
 <h1 align="center"> Hi There 👋 I'm Nida </h1>
-<h3 align="center"> MSc Computer Science student & Junior Android Developer </h3>
+<h3 align="center"> MSc Computer Science & Jr.Android Developer </h3>
 <!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=nidabaser&label=Profile%20views&color=0e75b6&style=flat" alt="nidabaser" /> </p> -->
 
 ![divider](https://user-images.githubusercontent.com/97883562/157744908-6e3e5ac5-4157-45e7-8f9f-20246db643a4.png)
