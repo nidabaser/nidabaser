@@ -8,17 +8,18 @@
    
 | I'm currently Learning | I write articles on | How to reach me |
 | ------------- | ------------- | ------------- |
-| <p align="center"><a href="https://kotlinlang.org" target="_blank" rel="noreferrer" align="center"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="25" height="25"/></a></p> | <p align="center"><a href="https://medium.com/@nida.bsr" target="blank"><img src="https://github.com/Medium/medium-logos/blob/master/01_Logo/01_Black/SVG/Medium-Logo-Black-RGB.svg" alt="@nida.bsr" height="50" width="100"/></a></p>  | <p align="center"><a href="https://linkedin.com/in/nida-baser" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="30"></a>  <a href="mailto:nida.bsr@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Mail" height="30" style="vertical-align:top; margin:4px"></p> |
+| <p a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer" align="center"><img src="https://github.com/nidabaser/nidabaser/assets/97883562/8b0946e4-6ddd-47d7-8e52-c6d5df503edf" alt="Java-Spring-Boot" width="35" height="35"/></a> </p> | <p align="center"><a href="https://medium.com/@nida.bsr" target="blank"><img src="https://github.com/Medium/medium-logos/blob/master/01_Logo/01_Black/SVG/Medium-Logo-Black-RGB.svg" alt="@nida.bsr" height="50" width="100"/></a></p>  | <p align="center"><a href="https://linkedin.com/in/nida-baser" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="30"></a>  <a href="mailto:nida.bsr@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Mail" height="30" style="vertical-align:top; margin:4px"></p> |
 
 </div>
 
   ![divider](https://user-images.githubusercontent.com/97883562/157744998-5a56274a-b7dd-4fd5-8e1a-0dd1c4fa22c7.png)
 
 <h4 align="center">Languages and Tools:</h4>
-<p align="center"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a>
+<p align="center">
+   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer" align="center"><img src="https://github.com/nidabaser/nidabaser/assets/97883562/8b0946e4-6ddd-47d7-8e52-c6d5df503edf" alt="Java-Spring-Boot" width="35" height="35"/></a>
    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+   <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
