@@ -37,8 +37,10 @@
 
   ![divider](https://user-images.githubusercontent.com/97883562/157745029-85e58e54-8e29-4727-8368-262488eb3a37.png)
 
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nidabaser)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nidabaser&show_icons=true&locale=en" alt="nidabaser" /></p>
--->
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nidabaser)](https://git.io/streak-stats)
+
+</div>
