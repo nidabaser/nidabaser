@@ -43,7 +43,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=nidabaser)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nidabaser&hide=css,scss,html&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nidabaser&hide=css,scss,html&theme=default)
 
 
 </div>
