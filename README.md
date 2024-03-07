@@ -39,11 +39,8 @@
 
 <div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nidabaser&show_icons=true&locale=en" alt="nidabaser" /></p>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nidabaser)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nidabaser&hide=css,scss,html&theme=default)
-
+|  |  |  |
+| ------------- | ------------- | ------------- |
+| <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nidabaser&show_icons=true&locale=en" alt="nidabaser" /></p> | [![GitHub Streak](https://streak-stats.demolab.com/?user=nidabaser)](https://git.io/streak-stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nidabaser&hide=css,scss,html&theme=default) |
 
 </div>
