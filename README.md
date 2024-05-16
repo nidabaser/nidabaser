@@ -14,14 +14,6 @@
 
 ![divider](https://user-images.githubusercontent.com/97883562/157745029-85e58e54-8e29-4727-8368-262488eb3a37.png)
 
-
-|  |  |
-| ------------- | ------------- |
-| <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nidabaser&show_icons=true&locale=en" alt="nidabaser" /></p> | [![GitHub Streak](https://streak-stats.demolab.com/?user=nidabaser)](https://git.io/streak-stats) |
-
-
-  ![divider](https://user-images.githubusercontent.com/97883562/157744998-5a56274a-b7dd-4fd5-8e1a-0dd1c4fa22c7.png)
-
 <h4 align="center">Languages and Tools:</h4>
 <p align="center">
    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/nidabaser/nidabaser/assets/97883562/ee8c3bb4-6282-469d-b46f-e0585395653a" alt="Java" width="50" height="50"/></a>
@@ -42,3 +34,9 @@
    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
 </p>
+
+![divider](https://user-images.githubusercontent.com/97883562/157744998-5a56274a-b7dd-4fd5-8e1a-0dd1c4fa22c7.png)
+
+|  |  |
+| ------------- | ------------- |
+| <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nidabaser&show_icons=true&locale=en" alt="nidabaser" /></p> | [![GitHub Streak](https://streak-stats.demolab.com/?user=nidabaser)](https://git.io/streak-stats) |
