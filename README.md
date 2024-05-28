@@ -42,7 +42,7 @@
 <a href="https://slack.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/nidabaser/nidabaser/assets/97883562/b8cd5e6e-433e-4e50-ac1b-b8506e75f76b" alt="slack" width="40" height="40"/></a>
 <a href="https://discord.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/nidabaser/nidabaser/assets/97883562/c554dcc5-df4a-4568-a892-b671ce808686" alt="discord" width="40" height="40"/></a>
 <a href="https://trello.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/nidabaser/nidabaser/assets/97883562/3ff5457b-0553-48fc-a83f-22ca6907f1c2" alt="trello" width="40" height="40"/></a>
-<a href="https://atlassian.com/software/jira/" target="_blank" rel="noreferrer"> <img src="https://github.com/nidabaser/nidabaser/assets/97883562/4800e3de-5b74-4102-b20f-53ffa1a6fde7" alt="jira" width="80" height="30"/></a>
+<a href="https://atlassian.com/software/jira/" target="_blank" rel="noreferrer"> <img src="https://github.com/nidabaser/nidabaser/assets/97883562/4800e3de-5b74-4102-b20f-53ffa1a6fde7" alt="jira" width="60" height="25"/></a>
 </p>
 
 ![divider](https://user-images.githubusercontent.com/97883562/157744998-5a56274a-b7dd-4fd5-8e1a-0dd1c4fa22c7.png)
