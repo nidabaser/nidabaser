@@ -39,8 +39,6 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
 <a href="https://slack.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/nidabaser/nidabaser/assets/97883562/b8cd5e6e-433e-4e50-ac1b-b8506e75f76b" alt="slack" width="40" height="40"/></a>
 <a href="https://discord.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/nidabaser/nidabaser/assets/97883562/c554dcc5-df4a-4568-a892-b671ce808686" alt="discord" width="40" height="40"/></a>
 <a href="https://trello.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/nidabaser/nidabaser/assets/97883562/3ff5457b-0553-48fc-a83f-22ca6907f1c2" alt="trello" width="40" height="40"/></a>
