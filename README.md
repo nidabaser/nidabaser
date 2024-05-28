@@ -6,7 +6,7 @@
 
 |  |  |
 | :--------: | :-------: |
-| <p align="center"><img src="https://github.com/nidabaser/nidabaser/assets/97883562/b8a77c6c-8d77-4332-b3d4-ca8c3534a785" alt="nida" width="200" height="120"/> </p> | <p align="center"><img src="https://github.com/nidabaser/nidabaser/assets/97883562/d4ae8290-6def-421e-954c-a847d8f5f0fa" alt="windows" width="100" height="100"/> </p> |
+| <p align="center"><img src="https://github.com/nidabaser/nidabaser/assets/97883562/b8a77c6c-8d77-4332-b3d4-ca8c3534a785" alt="nida" width="250" height="150"/> </p> | <p align="center"><img src="https://github.com/nidabaser/nidabaser/assets/97883562/d4ae8290-6def-421e-954c-a847d8f5f0fa" alt="windows" width="150" height="150"/> </p> |
 <h3 align="center"> My father is a computer repairman so I have been around computers since my childhood years :D </h3>
 
 </div>
