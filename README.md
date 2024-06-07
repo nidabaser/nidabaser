@@ -1,5 +1,4 @@
-<h2 align="center"> Hi There 👋 I'm Nida
-(MSc Computer Sciences & Java Backend Developer) </h2>
+<h2 align="center"> Hi There 👋 I'm Nida (MSc Computer Sciences & Java Backend Developer) </h2>
 <!-- <p align="center"><img src="https://komarev.com/ghpvc/?username=nidabaser&label=Profile%20views&color=0e75b6&style=flat" alt="nidabaser"/> </p> -->
 
 <div align="center">
@@ -11,8 +10,6 @@
 
 </div>
 
-![divider](https://user-images.githubusercontent.com/97883562/157744908-6e3e5ac5-4157-45e7-8f9f-20246db643a4.png)
-
 <div align="center">
    
 | I'm currently learning | I write articles | Contact with me | Languages |
@@ -20,8 +17,6 @@
 | <p a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://github.com/nidabaser/nidabaser/assets/97883562/8b0946e4-6ddd-47d7-8e52-c6d5df503edf" alt="Java-Spring-Boot" width="60" height="60"/></a></p><p a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://github.com/nidabaser/nidabaser/assets/97883562/6da6ad5e-acf0-4d99-a413-594d54120a52" alt="Javascript" width="60" height="55"/></a></p> | <p><a href="https://medium.com/@nida.bsr" target="blank"><img src="https://github.com/Medium/medium-logos/blob/master/01_Logo/01_Black/SVG/Medium-Logo-Black-RGB.svg" alt="@nida.bsr" height="60" width="120"/></a></p>    | <p a href="https://linkedin.com/in/nida-baser" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="50"></a></p><p a href="mailto:nida.bsr@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Mail" height="50"></p> | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nidabaser&hide=css,scss,html&theme=default) |
 
 </div>
-
-![divider](https://user-images.githubusercontent.com/97883562/157745029-85e58e54-8e29-4727-8368-262488eb3a37.png)
 
 <h4 align="center">Languages and Tools:</h4>
 
@@ -44,8 +39,6 @@
 <a href="https://trello.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/nidabaser/nidabaser/assets/97883562/3ff5457b-0553-48fc-a83f-22ca6907f1c2" alt="trello" width="40" height="40"/></a>
 <a href="https://atlassian.com/software/jira/" target="_blank" rel="noreferrer"> <img src="https://github.com/nidabaser/nidabaser/assets/97883562/4800e3de-5b74-4102-b20f-53ffa1a6fde7" alt="jira" width="60" height="25"/></a>
 </p>
-
-![divider](https://user-images.githubusercontent.com/97883562/157744998-5a56274a-b7dd-4fd5-8e1a-0dd1c4fa22c7.png)
 
 |  |  |
 | ------------- | ------------- |
