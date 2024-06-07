@@ -49,4 +49,4 @@
 
 |  |  |
 | ------------- | ------------- |
-| <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nidabaser&theme=vue&show_icons=true&locale=en" alt="nidabaser" /></p> | [![GitHub Streak](https://streak-stats.demolab.com?user=nidabaser&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) |
+| <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=nidabaser&theme=vue&show_icons=true&locale=en" alt="nidabaser" /></p> | [![GitHub Streak](https://streak-stats.demolab.com?user=nidabaser&theme=vue)](https://git.io/streak-stats) |
