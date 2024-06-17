@@ -1,4 +1,5 @@
-<h2 align="center"> Hi There 👋 I'm Nida (MSc Computer Sciences & Java Backend Developer) </h2>
+<h2 align="center"> Hi There 👋 I'm Nida </h2>
+<h4 align="center"> MSc Computer Sciences & Java Backend Developer </h4>
 <!-- <p align="center"><img src="https://komarev.com/ghpvc/?username=nidabaser&label=Profile%20views&color=0e75b6&style=flat" alt="nidabaser"/> </p> -->
 
 <div align="center">
@@ -6,7 +7,7 @@
 |  |  |
 | :--------: | :-------: |
 | <p align="center"><img src="https://github.com/nidabaser/nidabaser/assets/97883562/b8a77c6c-8d77-4332-b3d4-ca8c3534a785" alt="nida" width="250" height="150"/> </p> | <p align="center"><img src="https://github.com/nidabaser/nidabaser/assets/97883562/d4ae8290-6def-421e-954c-a847d8f5f0fa" alt="windows" width="150" height="150"/> </p> |
-<h3 align="center"> My father is a computer repairman so I have been around computers since my childhood years :D </h3>
+<h4 align="center"> My father is a computer repairman so I have been around computers since my childhood years :D </h4>
 
 </div>
 
@@ -14,7 +15,7 @@
    
 | I'm currently learning | I write articles | Contact with me | Languages |
 | :--------: | :-------: | :-------: | :--------: |
-| <p a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://github.com/nidabaser/nidabaser/assets/97883562/8b0946e4-6ddd-47d7-8e52-c6d5df503edf" alt="Java-Spring-Boot" width="60" height="60"/></a></p><p a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://github.com/nidabaser/nidabaser/assets/97883562/6da6ad5e-acf0-4d99-a413-594d54120a52" alt="Javascript" width="60" height="55"/></a></p> | <p><a href="https://medium.com/@nida.bsr" target="blank"><img src="https://github.com/Medium/medium-logos/blob/master/01_Logo/01_Black/SVG/Medium-Logo-Black-RGB.svg" alt="@nida.bsr" height="60" width="120"/></a></p> <a href="https://www.buymeacoffee.com/nidabaser" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>  | <p a href="https://linkedin.com/in/nida-baser" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="50"></a></p><p a href="mailto:nida.bsr@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Mail" height="50"></p> | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nidabaser&hide=css,scss,HTML,solidity&theme=default) |
+| <p a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://github.com/nidabaser/nidabaser/assets/97883562/8b0946e4-6ddd-47d7-8e52-c6d5df503edf" alt="Java-Spring-Boot" width="60" height="60"/></a></p><p a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://github.com/nidabaser/nidabaser/assets/97883562/6da6ad5e-acf0-4d99-a413-594d54120a52" alt="Javascript" width="60" height="55"/></a></p> | <p><a href="https://medium.com/@nida.bsr" target="blank"><img src="https://github.com/Medium/medium-logos/blob/master/01_Logo/01_Black/SVG/Medium-Logo-Black-RGB.svg" alt="@nida.bsr" height="60" width="120"/></a></p> <a href="https://www.buymeacoffee.com/nidabaser" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>  | <p a href="https://linkedin.com/in/nida-baser" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="50"></a></p><p a href="mailto:nida.bsr@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Mail" height="50"></p> | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nidabaser&hide=&theme=default) |
 
 </div>
 
