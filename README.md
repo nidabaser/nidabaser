@@ -1,5 +1,5 @@
-<h2 align="center"> Hi There 👋 I'm Nida </h2>
-<h4 align="center"> MSc Computer Sciences & Java Backend Developer </h4>
+<h1 align="center"> Hi There 👋 I'm Nida </h1>
+<h3 align="center"> MSc Computer Sciences & Java Backend Developer </h3>
 <!-- <p align="center"><img src="https://komarev.com/ghpvc/?username=nidabaser&label=Profile%20views&color=0e75b6&style=flat" alt="nidabaser"/> </p> -->
 
 <div align="center">
@@ -7,7 +7,7 @@
 |  |  |
 | :--------: | :-------: |
 | <p align="center"><img src="https://github.com/nidabaser/nidabaser/assets/97883562/b8a77c6c-8d77-4332-b3d4-ca8c3534a785" alt="nida" width="250" height="150"/> </p> | <p align="center"><img src="https://github.com/nidabaser/nidabaser/assets/97883562/d4ae8290-6def-421e-954c-a847d8f5f0fa" alt="windows" width="150" height="150"/> </p> |
-<h4 align="center"> My father is a computer repairman so I have been around computers since my childhood years :D </h4>
+<h3 align="center"> My father is a computer repairman so I have been around computers since my childhood years :D </h3>
 
 </div>
 
