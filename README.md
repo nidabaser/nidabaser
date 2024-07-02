@@ -43,4 +43,4 @@
 
 |  |  |
 | ------------- | ------------- |
-| <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=nidabaser&theme=vue&show_icons=true&locale=en" alt="nidabaser" /></p> | [![GitHub Streak](https://streak-stats.demolab.com?user=nidabaser&theme=vue)](https://git.io/streak-stats) |
+| <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=nidabaser&theme=vue&show_icons=true&locale=en" alt="nidabaser" /></p> | <img src="https://streak-stats.demolab.com?user=nidabaser&theme=vue"/> |
