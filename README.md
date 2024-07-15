@@ -4,9 +4,14 @@
 
 <div align="center">
 
+![banner](https://github.com/user-attachments/assets/4767d281-5bb7-47e0-9389-5074b3438f42)
+
+<!--
 |  |  |
 | :--------: | :-------: |
 | <p align="center"><img src="https://github.com/nidabaser/nidabaser/assets/97883562/b8a77c6c-8d77-4332-b3d4-ca8c3534a785" alt="nida" width="250" height="150"/> </p> | <p align="center"><img src="https://github.com/nidabaser/nidabaser/assets/97883562/d4ae8290-6def-421e-954c-a847d8f5f0fa" alt="windows" width="150" height="150"/> </p> |
+-->
+
 <h3 align="center"> My father is a computer repairman so I have been around computers since my childhood :D </h3>
 
 </div>
