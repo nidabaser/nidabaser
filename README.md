@@ -48,4 +48,4 @@
 
 |  |  |
 | ------------- | ------------- |
-| <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=nidabaser&theme=vue&show_icons=true&locale=en" alt="nidabaser" /></p> | <img src="https://streak-stats.demolab.com?user=nidabaser&theme=vue"/> |
+| <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=nidabaser&theme=transparent&show_icons=true&locale=en" alt="nidabaser" /></p> | <img src="https://github-readme-streak-stats-tan-eight.vercel.app?user=nidabaser&theme=transparent"/> |
