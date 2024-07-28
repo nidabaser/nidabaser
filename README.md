@@ -14,7 +14,7 @@
 <h4 align="left"> My father is a computer repairman so I have been around computers since my childhood :D </h4>
 </div>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools</h3>
 <p align="center">
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/nidabaser/nidabaser/assets/97883562/ee8c3bb4-6282-469d-b46f-e0585395653a" alt="Java" width="50" height="50"/></a>
 <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer" align="center"><img src="https://github.com/nidabaser/nidabaser/assets/97883562/8b0946e4-6ddd-47d7-8e52-c6d5df503edf" alt="Java Spring Boot" width="50" height="50"/></a>
