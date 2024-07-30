@@ -38,7 +38,7 @@
 
 |  |  |
 | ------------- | ------------- |
-| <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=nidabaser&theme=transparent&show_icons=true&locale=en" alt="nidabaser" /></p> | <img src="https://github-readme-streak-stats-tan-eight.vercel.app?user=nidabaser&theme=transparent"/> |
+| <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=nidabaser&theme=transparent&show_icons=true&locale=en" alt="nidabaser" /></p> | [![GitHub Streak](https://github-readme-streak-stats-zeta-murex.vercel.app?user=nidabaser&theme=transparent)](https://git.io/streak-stats) |
 
 <div align="center">
    
