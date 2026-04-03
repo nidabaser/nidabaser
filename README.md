@@ -1,12 +1,10 @@
 <h1 align="center"> Hi There 👋 I'm Nida </h1>
 <h3 align="center"> PhD(candidate) Computer Sciences & Software Engineer </h3>
-<!-- <p align="center"><img src="https://komarev.com/ghpvc/?username=nidabaser&label=Profile%20views&color=0e75b6&style=flat" alt="nidabaser"/> </p> -->
+<p align="center"><img src="https://komarev.com/ghpvc/?username=nidabaser&label=Profile%20views&color=0e75b6&style=flat" alt="nidabaser"/> </p>
 
-|  |  |
-| ------------- | ------------- |
-| <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=nidabaser&theme=transparent&show_icons=true&locale=en" alt="nidabaser" /></p> | [![GitHub Streak](https://github-readme-streak-stats-zeta-snowy.vercel.app?user=nidabaser&theme=transparent)](https://git.io/streak-stats) |
+[![GitHub Streak](https://github-readme-streak-stats-zeta-snowy.vercel.app?user=nidabaser&theme=transparent)](https://git.io/streak-stats)
 
-<p align="center">
+<p>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/nidabaser/nidabaser/assets/97883562/ee8c3bb4-6282-469d-b46f-e0585395653a" alt="Java" width="50" height="50"/></a>
 <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer" align="center"><img src="https://github.com/nidabaser/nidabaser/assets/97883562/8b0946e4-6ddd-47d7-8e52-c6d5df503edf" alt="Java Spring Boot" width="50" height="50"/></a>
 <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/nidabaser/nidabaser/assets/97883562/bad9fde7-e594-4598-b60b-2938e66e1291" alt="Maven" width="55" height="50"/></a>
@@ -26,11 +24,8 @@
 <a href="https://atlassian.com/software/jira/" target="_blank" rel="noreferrer"> <img src="https://github.com/nidabaser/nidabaser/assets/97883562/4800e3de-5b74-4102-b20f-53ffa1a6fde7" alt="jira" width="60" height="25"/></a>
 </p>
 
-<div align="center">
-   
-| I'm currently learning | I write articles | Contact with me | Languages |
-| :--------: | :-------: | :-------: | :--------: |
-| <p a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://github.com/nidabaser/nidabaser/assets/97883562/8b0946e4-6ddd-47d7-8e52-c6d5df503edf" alt="Java-Spring-Boot" width="60" height="60"/></a></p><p a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://github.com/nidabaser/nidabaser/assets/97883562/6da6ad5e-acf0-4d99-a413-594d54120a52" alt="Javascript" width="60" height="55"/></a></p> | <p><a href="https://medium.com/@nida.bsr" target="blank"><img src="https://github.com/Medium/medium-logos/blob/master/01_Logo/01_Black/SVG/Medium-Logo-Black-RGB.svg" alt="@nida.bsr" height="60" width="120"/></a></p> <a href="https://www.buymeacoffee.com/nidabaser" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>  | <p a href="https://linkedin.com/in/nida-baser" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="50"></a></p><p a href="mailto:nida.bsr@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Mail" height="50"></p> | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nidabaser&hide=HTML,CSS&theme=default) |
-</div>
+| My Articles | Contact with me |
+| :-------: | :-------: |
+| <p><a href="https://medium.com/@nida.bsr" target="blank"><img src="https://github.com/Medium/medium-logos/blob/master/01_Logo/01_Black/SVG/Medium-Logo-Black-RGB.svg" alt="@nida.bsr" height="60" width="120"/></a></p> <a href="https://www.buymeacoffee.com/nidabaser" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>  | <p a href="https://linkedin.com/in/nida-baser" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="50"></a></p><p a href="mailto:nida.bsr@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Mail" height="50"></p> |
 
-<!-- <h5> PS: I have a separate account dedicated to studying web3 and blockchain technologies: https://github.com/nidabaser98 <h5/> -->
+<h5> PS: I have a separate account dedicated to studying web3 and blockchain technologies: https://github.com/nidabaser98 <h5/>
